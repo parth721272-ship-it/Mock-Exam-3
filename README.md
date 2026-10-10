@@ -203,10 +203,10 @@ After cloning the repository on another computer:
 
 The video demonstrates the dataset, cleaning process, Excel analysis, SQL query, Python analysis, and Power BI report.
 
-## 16. References
+## 14. References
 
 [Write `None` if no external code or resources were used.]
 
-## 17. Authorship Declaration
+## 15. Authorship Declaration
 
 All work in this repository is my own except where cited.
